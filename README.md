@@ -7,6 +7,7 @@
  - thymeleaf css, bootstrap, jquery 경로 못찾는 문제 해결
  
 # Day2
+
 1) querydsl 사용가능한 환경 설정 -> 복습 필요
 2) 리스트 조회
 3) 방명록 한개 조회, 삭제, 수정
