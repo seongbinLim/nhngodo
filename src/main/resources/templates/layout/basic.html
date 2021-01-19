@@ -5,21 +5,20 @@
 
     <title>Simple Sidebar - Start Bootstrap Template </title>
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" th:href="@{/static/vendor/bootstrap/css/bootstrap.min.css}" />
+    <link rel="stylesheet" th:href="@{/vendor/bootstrap/css/bootstrap.min.css}" />
 
     <!-- Custom styles for this template -->
-    <link rel="stylesheet" th:href="@{/static/css/simple-sidebar.css}" />
+    <link rel="stylesheet" th:href="@{/css/simple-sidebar.css}" />
 
     <!-- Bootstrap core JavaScript -->
-    <script th:src="@{/vendor/jquery/jquery.min.js}"></script>
-    <script th:src="@{/vendor/bootstrap/js/bootstrp.bundle.min.js}"></script>
+    <script th:src="@{/jquery/jquery.min.js}"></script>
+    <script th:src="@{/bootstrap/js/bootstrp.bundle.min.js}"></script>
 
 </head>
 <body>
     <div class="container-fluid">
         <th:block th:replace = "${content}"></th:block>
     </div>
-<h1>zz</h1>
 </body>
 </th:block>
 </html>
