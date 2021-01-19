@@ -8,6 +8,7 @@ class GuestbookApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("contexnt....");
     }
 
 }
