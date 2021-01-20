@@ -20,4 +20,4 @@
 3) 방명록 프로젝트 END !
 
 
-영화리뷰 프로젝트 -> "nhn_basecamp" 레포지토리에 있습니다.
+영화리뷰 프로젝트 -> [nhn_basecamp](https://github.com/seongbinLim/nhn_basecamp)
